@@ -805,6 +805,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "34c7bb91-5bff-49bf-8e73-00ac4baf71f1",
+            "title": "fff",
+            "icon": "sicon-store",
+            "path": "home.hghg.js",
+            "fields": []
         }
     ],
     "support_url": "https://salla.com/",
