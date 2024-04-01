@@ -761,6 +761,11 @@
                                     "key": "brands_link",
                                     "value": "brands_link"
                                 },
+                                 {
+                                    "label": "الحب",
+                                    "key": "brands_link",
+                                    "value": "brands_link"
+                                },
                                 {
                                     "label": "المدونة",
                                     "key": "blog_link",
@@ -854,4 +859,19 @@
         "ar": "مجموعة كبيرة من المزايا لدعم تجارتك وتقديم تجربة تسوق مثيرة لعملائك",
         "en": "A wide range of features to support your business and provide an exciting shopping experience for your customers"
     }
+     {
+                    "type": "items",
+                    "icon": "sicon-keyboard_arrow_down",
+                    "label": "االحب",
+                    "id": "brands",
+                    "format": "code",
+                    "description": "hassaanomar",
+                    "selected": [],
+                    "options": [],
+                    "required": true,
+                    "multichoice": true,
+                    "searchable": true,
+                    "source": "hso"
+                }
+    
 }
